@@ -5,3 +5,4 @@ Various programs written in C
 2. tempconv.c - Temperature converter (F to C) using integers
 3. tempconvf.c - Temperature converter (F to C) using floats for specificity
 4. longestline.c - Take input and returns the longest line
+5. charget.c - Gets input and prints out the input
